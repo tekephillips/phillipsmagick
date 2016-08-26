@@ -3,4 +3,4 @@
 2) gulp
 3) localhost:3000/images
 
-bada bing....hopefully?
+bada bing....hopefully bada boom?
